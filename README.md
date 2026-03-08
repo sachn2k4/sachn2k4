@@ -37,8 +37,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sachn2k4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachn2k4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachn2k4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 </div>
 
