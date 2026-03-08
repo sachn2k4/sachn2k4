@@ -36,8 +36,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachn2k4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Sachin's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sachn2k4&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
