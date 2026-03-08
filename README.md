@@ -79,14 +79,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachn2k4)
 
 </div>
-```
-
----
-
-## Snake Animation ke liye Extra Step
-
-Snake animation ke liye GitHub Action banana padega:
-
-**sachn2k4 repo mein jaao:**
-```
-New file → .github/workflows/snake.yml
