@@ -36,11 +36,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+
 ![Sachin's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sachn2k4&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachn2k4&theme=tokyonight&hide_border=true)
 
@@ -77,3 +74,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachn2k4)
 
 </div>
+
