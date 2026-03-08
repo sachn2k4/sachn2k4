@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sachin Maurya 👋
 
-<!--
-**sachn2k4/sachn2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CS Student — Greater Noida Institute of Technology
+💼 QA Engineer (Manual & Automation)
+📍 Greater Noida, India
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- Automation Testing with Selenium WebDriver + Java
+- Manual Testing — Test Case Design & Bug Reporting
+- API Testing with Postman
+- Database Validation with MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+## 📊 Projects
+- ⚙️ [Selenium Automation Framework](https://github.com/sachn2k4/selenium-automation-framework) — POM + TestNG + Java
+- 🛒 [E-Commerce Manual Testing](https://github.com/sachn2k4/ecommerce-manual-testing) — 45 Test Cases + Bug Reports
+- 🏦 [Banking App QA Testing](https://github.com/sachn2k4/banking-app-qa-testing) — SQL + API + Manual Testing
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sachin-mourya)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:officialsachin2k4@gmail.com)
